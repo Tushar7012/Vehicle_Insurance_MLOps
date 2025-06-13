@@ -34,6 +34,6 @@ drop_columns: _id
 num_features:
   - yr_of_estab
 
-mm_features:
+mm_columns:
   - no_of_employees
   - prevailing_wage
